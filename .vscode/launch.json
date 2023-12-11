@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kaitlynellis/Desktop/lab5_OS/matrix",
+      "program": "/Users/kaitlynellis/Desktop/lab5_OS/matrix/build/Debug/outDebug"
+    }
+  ]
+}
